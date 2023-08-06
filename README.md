@@ -3,4 +3,7 @@ A simple skift docs for application devolopment in skiftOS using karm until skif
 
 ### **Docs Structure**
   - [Application Structure](AppStructure.md)
+  - [Widgets in Karm-Ui](Widgets.md)
+  - [Using system features](System.md)
+  - [Additional Info](Additional.md)
 
